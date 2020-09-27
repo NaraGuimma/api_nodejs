@@ -1,4 +1,4 @@
-# **API with NodeJS**
+# **Creating an API with NodeJS**
 
 This oroject is part of Coursera catalogue:https://www.coursera.org/learn/api-nodejs
 
