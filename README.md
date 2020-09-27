@@ -1,6 +1,6 @@
 # **Creating an API with NodeJS**
 
-This oroject is part of Coursera catalogue:https://www.coursera.org/learn/api-nodejs
+This project is part of Coursera catalogue:https://www.coursera.org/learn/api-nodejs
 
 
 The goal is to create an API with the following methods:
